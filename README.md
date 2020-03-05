@@ -1,4 +1,4 @@
-## Deep learning based on magnetic resonance imaging for predictingoutcome of uterine fibroid embolization
+## Deep learning based on magnetic resonance imaging for predicting outcome of uterine fibroid embolization
 ### Running this project
 
 This project can be initiated using simple scripts.
